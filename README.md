@@ -16,6 +16,10 @@ Installation:
 ```sh
 git clone git@github.com:smav/CakeBootstrap APP/Plugin/CakeBootstrap
 ```
+or more likely
+```sh
+git submodule add git@github.com:smav/CakeBootstrap APP/Plugin/CakeBootstrap
+```
 
 Basic Usage:
 -----
