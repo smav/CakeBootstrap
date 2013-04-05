@@ -24,7 +24,7 @@ In `Config/bootstrap.php`:
 
 ```php
 CakePlugin::loadAll(array(
-	'Bootstrap'
+	'CakeBootstrap'
 ));
 ```
 
@@ -32,15 +32,15 @@ In the layout:
 
 ```php
 echo $this->Html->css(array(
-	'Bootstrap.bootstrap.min.css',
-	'Bootstrap.bootstrap-responsive.min.css'
+	'CakeBootstrap.bootstrap.min.css',
+	'CakeBootstrap.bootstrap-responsive.min.css'
 ));
 ```
 
 ```php
 echo $this->Html->script(array(
 	'//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js',
-	'Bootstrap.bootstrap.min.js'
+	'CakeBootstrap.bootstrap.min.js'
 ));
 ```
 
