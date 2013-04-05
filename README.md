@@ -1,10 +1,10 @@
 CakeBootstrap
 =============
 
-CakePHP 2.x (2.3.1) Twitte Bootstrap(2.3.1) Plugin
+CakePHP 2.x Twitter Bootstrap (v2.3.1) Plugin
 
-All the files required to use Bootstrap with CakePHP v2, and bake templates to
-generate Bootstrap ready views.
+All the files required to use Bootstrap with CakePHP, and bake Bootstrap
+ready views.
 
 A merging of the ideas and code presented in
 [CakePHP-Bootstrap-Plugin](https://github.com/chronon/CakePHP-Bootstrap-Plugin)
@@ -44,5 +44,11 @@ echo $this->Html->script(array(
 ));
 ```
 
-Baking:
+View/Template Baking:
 -----
+
+[Cake Bake
+Docs](http://book.cakephp.org/2.0/en/console-and-shells/code-generation-with-bake.html)
+
+```sh
+```
