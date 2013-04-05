@@ -54,5 +54,3 @@ View/Template Baking:
 [Cake Bake
 Docs](http://book.cakephp.org/2.0/en/console-and-shells/code-generation-with-bake.html)
 
-```sh
-```
